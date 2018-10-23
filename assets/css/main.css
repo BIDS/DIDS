@@ -1310,7 +1310,7 @@
 /* Basic */
 
 	body {
-		background-color: #6d4f78;/*#183026; */
+		background-color: #2F4F4F;/*#183026; */
 		background-image: url("../../images/bkg_shaded.jpg"), url("../../images/bkg_shaded_small.jpg");
 		/*background-image: url("images/overlay.png"), url("../../images/bkg_small.png");*/
 		background-repeat: repeat, no-repeat;
@@ -1388,7 +1388,7 @@
 		-webkit-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		-ms-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
-		color: #6d4f78;
+		color: #2F4F4F;
 		text-shadow: 0 0 0.5px rgba(53, 184, 143, 0.25);
 		text-decoration: none;
 		border-bottom: dotted 1px rgba(53, 184, 143, 0.5);
@@ -1722,7 +1722,7 @@
 		position: relative;
 		display: inline-block;
 		border: 0;
-		background: #6d4f78;
+		background: #2F4F4F;
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		cursor: pointer;
@@ -2040,14 +2040,14 @@
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
-		background: #6d4f78 url("images/banner.svg") bottom center no-repeat;
+		background: #2F4F4F url("images/banner.svg") bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
 	}
 
 		#banner .button {
-			color: #6d4f78;
+			color: #2F4F4F;
 			text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 
 		}
